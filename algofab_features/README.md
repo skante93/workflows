@@ -25,9 +25,9 @@ More or less what is discussed in the context section above
 
 The workflow is divided in three WFC :
 
-* the [WFC 1](./search/index.md) : describes how searches are performed on Algofab wheter on the portal (GUI) or the API Server (REST API interface)
-* the [WFC 2](./download/index.md) : describes how to download and run a targeted resource Algofab wheter on the portal (GUI) or the API Server (REST API interface)
-* the [WFC 3](./upload/index.md) : describes how to upload a targeted resource Algofab wheter on the portal (GUI) or the API Server (REST API interface)
+* the [WFC 1](./search/) : describes how searches are performed on Algofab wheter on the portal (GUI) or the API Server (REST API interface)
+* the [WFC 2](./download/) : describes how to download and run a targeted resource Algofab wheter on the portal (GUI) or the API Server (REST API interface)
+* the [WFC 3](./upload/) : describes how to upload a targeted resource Algofab wheter on the portal (GUI) or the API Server (REST API interface)
 
 ```mermaid
 graph TB;
