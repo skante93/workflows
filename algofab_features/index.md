@@ -16,6 +16,7 @@ To highlight these features the following background will be assumed :
 
 To highlight the "collaboration" aspect, you can consider the Algofrithm our researcher needed comes from a collaborating team that uploaded it resource (Algorithm) in order to specifically share it with our researcher.
 
+_Note: The openAPI interface of the API Server is available at [this link](), feel free to head there to discover the HTTP API and possibly design your own clientApps._
 ## Outcome
 
 More or less what is discussed in the context section above
