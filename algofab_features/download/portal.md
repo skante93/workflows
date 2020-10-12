@@ -22,7 +22,7 @@ _Note: If you haven't accepted the Licence and Terms of use of the resource, the
 
 Once you have found the resource you need, this is how you download and run it :
 
-* open the "Download" tab and click the "Download" button to download and archive (*.zip, *.tar ...) 
-* read the documentation tab containing the user manual (made by the maintainer of the resource) in order to understand how to make good use of the archive once extracted
-* if the documentation is not accurate or is missing some information, you can notify the maintainer using the "Notify" tab
-* you can also leave your impression (note + accompanying message) in the "Vote" tab
+* scroll to the "Download" section and click the "Download" button to download and archive (*.zip) 
+* scroll to the "Documentation" section containing the user manual (made by the maintainer of the resource) in order to understand how to make good use of the archive once extracted
+* if the documentation is not accurate or is missing some information, you can notify the maintainer by following the intructions in the "Notify" section
+* you can also leave your impression (note + accompanying message) in the "Ratings" section
