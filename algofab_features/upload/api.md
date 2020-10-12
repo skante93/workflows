@@ -27,6 +27,16 @@ curl -X POST -H "Content-Type: multipart/form-data" \
 where: 
 * __[adresse of API Server]__ : is the adress of the API server
 
+You can update the resource's archive data by sending a request like this:
+
+```bash
+curl -X PUT -H "Content-Type: multipart/form-data" -F 'archive=@/path/to/archiveData' https://[address of API Server]/resources/{resourceID}/archive 
+```
+
+where: 
+* __[adresse of API Server]__ : is the adress of the API server
+* __{resourceID}__: is the resource's ID
+
 ### Response
 
 If respone statsus code is :
