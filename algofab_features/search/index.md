@@ -17,5 +17,5 @@ This workflow shows how to perform seaching operations on Algofab.
 
 There are two independant workflow components :
 
-* the [WFC 1](./poral.md) : describes how to perform the search on the portal
+* the [WFC 1](./portal.md) : describes how to perform the search on the portal
 * the [WFC 2](./api.md) : describes how to perform the search on the API Server
