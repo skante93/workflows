@@ -21,7 +21,7 @@ This workflow shows how to download and run resources Algofab through the API se
 To download a resource type, this is how:
 
 ```bash
-curl -X GET https://[address of API Server]/resources/[id resource]?accept_licence=true&accept_terms_of_use=true --output resource.zip
+curl -X GET https://[address of API Server]/resources/[id resource]/archive?accept_licence=true&accept_terms_of_use=true --output resource.zip
 ```
 
 Where : 
