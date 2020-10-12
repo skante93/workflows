@@ -2,9 +2,9 @@
 
 ## Context
 
-Suppose a user / researcher whishes to take advantage of the features of Algofab but works in a secure (with multiple contraints) environment that will not allow communication on internet (therefore he cant access Algofab from his workstation).
+Suppose a user / researcher whishes to take advantage of the features of Algofab but works in a secluded environment (cut off from the internet for security reasons), therefore he cannot access [main] Algofab in said environemnt.
 
-The user can deploy his own instance of algfab in his local infrastructure.
+The solution to this problem is to move Algofab inside the user's working environment, which is possible because of the "Mobility" feature of Algofab.
 
 ## Outcome
 
