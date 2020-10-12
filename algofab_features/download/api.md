@@ -28,9 +28,7 @@ Where :
 * __[adresse of API Server]__ : is the adress of the API server
 * __[id resource]__ : is the ID of the resource to be downloaded
 * __accept_licence__ : required query parameter to make users remember that there is a licence to read and agree to. If its value is not true, the download fails.
-* __accept_licence__ : required query parameter to make users remember that there is a terms of use to read and agree to. If its value is not true, the download fails.
-
-_Note: we saved the response as resource.zip, this will work only if the original archive uploaded byt the resource's maintainer was a zip file. To know what kind of format to expect you can [query the API Server about the resource's information]() and learn the extension of the archive (field XXX)._
+* __accept_terms_of_use__ : required query parameter to make users remember that there is a terms of use to read and agree to. If its value is not true, the download fails.
 
 ### Response
 
@@ -42,6 +40,6 @@ If respone statsus code is :
 
 ### Run
 
-The running method will be different for each resource, to understand how to make use of a resource you need to read its documentation first and then conform to it to obtain the expected benefit.
+The running method will be different for each resource, to understand how to make use of a resource you need to read its documentation first and then conform to it to obtain the expected benefits.
 
-As such, the running will depend on developper's understanding of the resource's documentation. 
+As such, the running will depend on the precision of the resource maintainer's documentation and the developper's understanding of said documentation. 
