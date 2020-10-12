@@ -12,9 +12,9 @@
 _Note: If you haven't signed up on Algofab yet, please [do so]() before proceeding further._
 
 
-To perform a search, send a GET request to the /resource/search url or the API Server with the text being searched a query parameter named **q**.
+To perform a search, send a GET request to the __/resource/search__ url or the API Server with the text being searched a query parameter named **q**.
 
-*__About searches__: when performing searches the text (query parameter __q__) can be formatted as you would do in google search engine (i.e. with keywords such as AND, OR, with minus ...). The search will be applied on the following fields of the database documents: __name__, __description__ and __tags__. Hence be sure to make those fields as self explanatory as possible when you [create resources]()*
+*__About searches__: when performing searches the text (query parameter __q__) can be formatted as you would do in a google search (i.e. with keywords such as AND, OR, with minus ...). The search will be applied on the following fields of the database documents: __name__, __description__ and __tags__. Hence be sure to make those fields especially as self explanatory as possible when you [create resources]()*
 
 You can filter the results by using the following query parameters:
 * name: a regex to filter out name to do not match the given name
@@ -26,19 +26,19 @@ You can filter the results by using the following query parameters:
 * to search the text "python" on the resources, you can type the following: 
 
 ```bash
-curl -X GET https://[adress API Server]/resource/search?q=python
+curl -X GET https://[address of API Server]/resource/search?q=python
 ```
 
 * to search the text "python OR java" (searching resources where either the words python or java exists) on the resources, you can type the following: 
 
 ```bash
-curl -X GET https://[adress API Server]/resource/search?q=python+OR+java
+curl -X GET https://[address of API Server]/resource/search?q=python+OR+java
 ```
 
 * to search the text "python" and only get the "notebook" type of resources :
 
 ```bash
-curl -X GET https://[adress API Server]/resource/search?q=python&type=notebook
+curl -X GET https://[address of API Server]/resource/search?q=python&type=notebook
 ```
 
 ### Response
