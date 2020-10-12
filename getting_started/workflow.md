@@ -3,9 +3,9 @@
 
 ## Context
 
-This workflow aims to describe a scenario in a highlighting Algofab and its most attractive features in the context of scientific studies.
+This workflow aims to describe a scenario highlighting Algofab and its most attractive features in the context of scientific studies.
 
-[Describe Algofab a bit]
+*Note: here is only an introduction to Algofab, you can [check Algofab website]() if you wish to have a more thourough insight of the Algofab platform*
 
 ## Outcome
 
@@ -17,8 +17,8 @@ The workflow should allow reader to :
 
 ## Workflow components
 
-This workflow has two WFC indepebdabt from each other but essential in their respective use cases: 
-* the [WFC 1](../algofab_features/index.md) : describes some important features in order to help better guide new users towards the resources that are most likeley to interst them.
+This workflow has two WFC independant from each other but essential in their respective use cases: 
+* the [WFC 1](../algofab_features/index.md) : describes some important features in order to help better guide new users towards browsing through the resources  catalog and find the ones that are most likeley to interst them.
 * the [WFC 2](../algofab_mobility/index.md) : describes how, in a certain context, it might be usefull for users to create a local deployment of Algofab and how to go about deploying it.
 
 
