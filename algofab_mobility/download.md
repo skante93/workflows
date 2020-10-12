@@ -30,7 +30,3 @@ $ git clone [link to clone coming soon]
 
 Move inside the algofab folder created by the previous command (_cd algofab_).
 
-### Configuration
-
-[ ... Coming soon ... ]
-
