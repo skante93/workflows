@@ -10,14 +10,15 @@ This workflow covers summarily some of the most preeminent features of Algofab, 
 * Uploading: how to upload resources on Algofab and share it with other users?
 
 To highlight these features the following background will be assumed : 
-_A user / researcher browsing the platform for a particular "Algorithm" type of resource that is necessary for him to continue with a scientific study (i.e. the algorithm can help resolve partially the problem posed in a the scientific study)._ 
-_The researcher downloads the resource and apllies it on his own data which results in new and valuable data._
-_The researcher whises to publish the generated data containing the conclusion he came up with after the study, thus he upload them as a "Dataset" type of resource._
+* _A user / researcher browsing the platform for a particular "Algorithm" type of resource that is necessary for him to continue with a scientific study (i.e. the algorithm can help resolve partially the problem posed in a the scientific study)._ 
+* _The researcher downloads the resource and apllies it on his own data which results in new and valuable data._
+* _The researcher whises to publish the generated data containing the conclusion he came up with after the study, thus he upload them as a "Dataset" type of resource._
 
+To highlight the "collaboration" aspect, you can consider the Algofrithm our researcher needed comes from a collaborating team that uploaded it resource (Algorithm) in order to specifically share it with our researcher.
 
 ## Outcome
 
-More or less what is discussed in th e context section above
+More or less what is discussed in the context section above
 
 ## Workflow component
 
