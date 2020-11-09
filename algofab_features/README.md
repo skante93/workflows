@@ -1,5 +1,5 @@
 
-# Algofab features
+# Algofab features (workflow)
 
 ## Context
 
