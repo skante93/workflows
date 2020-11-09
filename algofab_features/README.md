@@ -14,7 +14,7 @@ To highlight these features the following scenario will be assumed :
 * _The researcher downloads the resource and apllies it on his own data which results in new and valuable data._
 * _The researcher whises to publish the generated data containing the conclusion he came up with after the study, thus he upload them as a "Dataset" type of resource._
 
-To highlight the "collaboration" aspect, you can consider the Algofrithm our researcher needed comes from a collaborating team that uploaded it resource (Algorithm) in order to specifically share it with our researcher.
+To highlight the "collaboration" aspect, you can consider the Algorithm our researcher needed comes from a collaborating team that uploaded it resource (Algorithm) in order to specifically share it with our researcher.
 
 _Note: The openAPI interface of the API Server is available at [this link](), feel free to head there to discover the HTTP API and possibly design your own clientApps._
 ## Outcome
