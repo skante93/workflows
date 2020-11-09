@@ -1,4 +1,4 @@
-# Algofab features: Search on Portal
+# Marketplace : Search on Portal (workflow)
 
 ## Outcome 
 * Being able to perform searches on the portal
