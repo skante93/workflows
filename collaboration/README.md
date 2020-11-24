@@ -30,7 +30,7 @@ This workflow has two WFC independant from each other but essential in their res
 * the [WFC 1](./setup/README.md) : describes the app as well as the setup,
 * the [WFC 2](./workshop/README.md): describes the deployment of the App (by either team A or team B since anyone is allowed to run an instance of an App),
 * the [WFC 3](./download/README.md): describes the download, local (in team A's environment) deployment and execution of the App (by team A),
-* the [WFC 4](./publish/README.md): describes publication/contribution/sharing of the generated data (kmeans model) as a resource by team A).
+* the [WFC 4](./publish/README.md): describes the publication/contribution/sharing of the generated data (kmeans model) as a resource by team A).
 
 
 ```mermaid
