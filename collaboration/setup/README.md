@@ -29,9 +29,9 @@ The app is called "algorun" (app available [here](https://ws67-af-portal.tl.tera
 Since the main goal is still to describe a case of collaboration between teams, to keep things simple, we decided to that the script provided by Team A will exhibit a "KMeans" training on "IRIS" datasets and produce a model.
 This means that A1 is represented by "Algorun", D1 (c.f [Context](#context)) is represented by the IRIS dataset, and D2 is represented by the KMeans model obtained.
 
-Futhermore, since the Algorun App is a bit free-style (just provides an evironment for you to run your scripts in), it also provide the opportunity to specify a workshop storage at path <pre>/data</pre> in case users want to bring out the results of their scripts.
+Futhermore, since the Algorun App is a bit free-style (just provides an evironment for you to run your scripts in), it also provide the opportunity to specify a workshop storage at path <code>/data</code> in case users want to bring out the results of their scripts.
 
-The script that will be used by Team A is in [example-kmeans.py](./example-kmeans.py), and as you can see, the sucessfull execution of it will save the model at <code>/data/models/kmeans-model.pickle</code> and plots at <code>/data/models/kmeans-model.pickle</code>. Everything is saved in <pre>/data</pre> because, as stated previously the App give the possibility to mount a storage there. As a result we created an instance of Algorun while specifying a Marketplace volume at /data, which then, bu nature (Merketplace Volumes are designed that way) exposed an SFTP interface by which we can explore the Volume.
+The script that will be used by Team A is in [example-kmeans.py](./example-kmeans.py), and as you can see, the sucessfull execution of it will save the model at <code>/data/models/kmeans-model.pickle</code> and plots at <code>/data/models/kmeans-model.pickle</code>. Everything is saved in <code>/data</code> because, as stated previously the App give the possibility to mount a storage there. As a result we created an instance of Algorun while specifying a Marketplace volume at /data, which then, bu nature (Merketplace Volumes are designed that way) exposed an SFTP interface by which we can explore the Volume.
 
 The following video show how the whole process works.
 
