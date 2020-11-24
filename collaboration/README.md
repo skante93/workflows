@@ -9,7 +9,7 @@ This workflow aims to outline a particular example of collaboration between two 
 The scenario goes as follows :
 
 * two teams, A and B, want to cooperate on a datascience project
-* team A has sensitive data it cannot publish directly (i.e. legal bindings) but it can however, first process the sensitive data to produce non-sensitive and valuable data, that in turn, ca be shared.
+* team A has sensitive data it cannot publish directly (i.e. legal bindings) but it can however, first process the sensitive data to produce non-sensitive and valuable data, that in turn, can be shared as to promote the results of a scientific study.
 * team B publishes an app(s) on TeraLab Marketplace that can produce the sort of data processing team B needed
 * team A, therefore [after borwsing eventually and testing] fetches the app then apllies it on their data
 * finally team A publishes their generated data to the TeraLab Marketplace
