@@ -48,10 +48,4 @@ The following video explains how a storage is created
 
 [VIDEO]
 
-The next video explains how a workshop item is created
-
-[VIDEO]
-
-The last video explains how a resource is created 
-
-[VIDEO]
+The next workflow components contain videos showcasing the creation of a workflow item and that of a resource. 
