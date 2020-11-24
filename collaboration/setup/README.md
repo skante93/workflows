@@ -31,7 +31,7 @@ This means that A1 is represented by "Algorun", D1 (c.f [Context](#context)) is 
 
 Futhermore, since the Algorun App is a bit free-style (just provides an evironment for you to run your scripts in), it also provide the opportunity to specify a workshop storage at path <pre>/data</pre> in case users want to bring out the results of their scripts.
 
-The script that will be used by Team A is in [example-kmeans.py](./example-kmeans.py), and as you can see, the sucessfull execution of it will save the model at <pre>/data/models/kmeans-model.pickle</pre> and plots at <pre>/data/models/kmeans-model.pickle</pre>. Everything is saved in <pre>/data</pre> because, as stated previously the App give the possibility to mount a storage there. As a result we created an instance of Algorun while specifying a Marketplace volume at /data, which then, bu nature (Merketplace Volumes are designed that way) exposed an SFTP interface by which we can explore the Volume.
+The script that will be used by Team A is in [example-kmeans.py](./example-kmeans.py), and as you can see, the sucessfull execution of it will save the model at <code>/data/models/kmeans-model.pickle</code> and plots at <code>/data/models/kmeans-model.pickle</code>. Everything is saved in <pre>/data</pre> because, as stated previously the App give the possibility to mount a storage there. As a result we created an instance of Algorun while specifying a Marketplace volume at /data, which then, bu nature (Merketplace Volumes are designed that way) exposed an SFTP interface by which we can explore the Volume.
 
 The following video show how the whole process works.
 
