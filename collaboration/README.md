@@ -1,6 +1,7 @@
 # Collaboration through TeraLab Marketplace
 
 _**/!\ Note**: the terms "Algofab" and "TeraLab Marketplace" are interchangeable_
+_**/!\ Note**: the terms "App" and "Algorithm" are interchangeable_
 
 ## Context
 
@@ -9,9 +10,9 @@ This workflow aims to outline a particular example of collaboration between two 
 The scenario goes as follows :
 
 * two teams, A and B, want to cooperate on a datascience project
-* team A has sensitive data it cannot publish directly (i.e. legal bindings) but it can however, first process the sensitive data to produce non-sensitive and valuable data, that in turn, can be shared as to promote the results of a scientific study.
-* team B publishes an app(s) on TeraLab Marketplace that can produce the sort of data processing team B needed
-* team A, therefore [after borwsing eventually and testing] fetches the app then apllies it on their data
+* team A has sensitive data it cannot publish directly (i.e. legal bindings) but it can however, first process the sensitive data to produce non-sensitive and valuable data, that in turn, can be shared as to promote the results of a scientific study. For the sake of simplicity we are going to consider that the study is only dependant on one processing (algorithm) 
+* team B publishes an App on TeraLab Marketplace that can produce the sort of data processing team A needed
+* team A, therefore [after borwsing eventually and testing]() fetches the app then apllies it on their data
 * finally team A publishes their generated data to the TeraLab Marketplace
 
 ## Pre-requisites:
