@@ -1,6 +1,6 @@
 # Collaboration through TeraLab Marketplace
 
-__ /!\ Note: the terms "Algofab" and "TeraLab Marketplace" are interchangeable __
+_**/!\ Note**: the terms "Algofab" and "TeraLab Marketplace" are interchangeable_
 
 ## Context
 
