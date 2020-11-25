@@ -7,6 +7,8 @@
 
 ## Context
 
+This is a workflow component (WFC3) of the [Collaboration through TeraLab Marketplace](../) worfklow.
+
 The Resource is "Algorun" and as of now (Nov 2020), the resource is available [here](https://ws67-af-portal.tl.teralab-datascience.fr/store/items/5fbd1c254f5aa7013ddae94b)
 We are going to show how can download the resource
 
