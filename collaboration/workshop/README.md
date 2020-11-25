@@ -22,7 +22,7 @@ We are going to cover how you can use it in workshop mode with a video showing t
 <pre>
 </pre>
 
-You should now have a <pre>kmeans-model.pickle</p> which is the kmeans model dumped in pickle format. You can load this model now in your own environment using the pickle library on python and use it make further predictions / classifications.
+You should now have a <code>kmeans-model.pickle</code> which is the kmeans model dumped in pickle format. You can load this model now in your own environment using the pickle library on python and use it make further predictions / classifications.
 
 [VIDEO]
 
