@@ -26,7 +26,7 @@ You can now try to download the archive, extract it an verify that you have the 
 
 The following video show the proccess:
 
-[VIDEO]
+[Publishing the model](https://www.youtube.com/watch?v=Uipcv0s6-xs)
 
 
 
