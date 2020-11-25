@@ -13,7 +13,7 @@ We are going to cover how you can use it in workshop mode with a video showing t
 
 ## Instructions
 
-* Go to the [page of the instance of Algorun](https://ws67-af-portal.tl.teralab-datascience.fr/workshop/items/5fb633ea4f5aa7013ddae944) or create your own instance of Algorun then visit its page (an instance is available [here]())
+* Go to the [page of the instance of Algorun](https://ws67-af-portal.tl.teralab-datascience.fr/workshop/items/5fb633ea4f5aa7013ddae944) or create your own instance of Algorun then visit its page (an instance is available [here](https://ws67-af-portal.tl.teralab-datascience.fr/workshop/items/5fbd1a6d4f5aa7013ddae94a))
 * Locate the "Request" section and upload the example-kmeans.py script 
 * Click on submit and wait for the execution to end. You should have the following output:
 <pre>
