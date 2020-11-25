@@ -7,7 +7,7 @@
 
 ## Context
 
-This is a workflow component of the [Collaboration through TeraLab Marketplace](../) worfklow.
+This is a workflow component (WFC3) of the [Collaboration through TeraLab Marketplace](../) worfklow.
 
 ## Outcome
 
