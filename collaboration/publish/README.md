@@ -7,7 +7,7 @@
 
 ## Context
 
-We are going to show how you can publish a resource
+This is a workflow component of the [Collaboration through TeraLab Marketplace](../) worfklow.
 
 ## Outcome
 
