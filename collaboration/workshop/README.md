@@ -25,6 +25,8 @@ Plots recorded at : /data/plots
 
 You should now have a <code>kmeans-model.pickle</code> which is the kmeans model dumped in pickle format. You can load this model now in your own environment using the pickle library on python and use it make further predictions / classifications.
 
+The next videos display in action how the actions described would look like
+
 [App Instance creation](https://www.youtube.com/watch?v=8fi63e6hXL8)
 
 [App instance Demo](https://www.youtube.com/watch?v=bD5q_OMLkEs)
