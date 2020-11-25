@@ -7,7 +7,7 @@
 
 ## Context
 
-The Resource is "Algorun" and as of now (Nov 2020), the App is available [here]()
+The Resource is "Algorun" and as of now (Nov 2020), the resource is available [here](https://ws67-af-portal.tl.teralab-datascience.fr/store/items/5fbd1c254f5aa7013ddae94b)
 We are going to show how can download the resource
 
 ## Outcome
@@ -16,7 +16,7 @@ We are going to show how can download the resource
 
 ## Instructions
 
-* Go to the [page of the Algorun resource]() 
+* Go to the [page of the Algorun resource](https://ws67-af-portal.tl.teralab-datascience.fr/store/items/5fbd1c254f5aa7013ddae94b) 
 * Scroll to the bottom of the page then Open the collapsed "Download" section
 * Click on the "Donwload" button and wait for the download to be complete
 <!-- * Extract the zip file, you should have an executable named setup.sh, run it 
