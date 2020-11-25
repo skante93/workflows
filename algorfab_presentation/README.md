@@ -1,5 +1,5 @@
 
-# Getting started
+# TeraLab Marketplace user manual
 
 ## Context
 
@@ -18,8 +18,8 @@ The workflow should allow reader to :
 ## Workflow components
 
 This workflow has two WFC independant from each other but essential in their respective use cases: 
-* the [WFC 1](../algofab_features/) : describes some important features in order to help better guide new users towards browsing through the resources  catalog and find the ones that are most likeley to interst them.
-* the [WFC 2](../algofab_mobility/) : describes how, in a certain context, it might be usefull for users to create a local deployment of Algofab and how to go about deploying it.
+* the [WFC 1](./algofab_features/README.md) : describes some important features in order to help better guide new users towards browsing through the resources  catalog and find the ones that are most likeley to interst them.
+* the [WFC 2](./algofab_mobility/README.md) : describes how, in a certain context, it might be usefull for users to create a local deployment of Algofab and how to go about deploying it.
 
 
 ```mermaid
