@@ -29,9 +29,9 @@ Now you can see the familiar web interface used when testing you Algorun in work
 * the algorun App is no longer ran remotely but locally
 * you no longer have an SFTP interface to access the generated data, but you can directly access them from inside the data folder of the docker context folder.
 
-The following video illustrates the process
+The following video illustrates the process :
 
-[VIDEO]
+[Downloading App](https://www.youtube.com/watch?v=AIMqpV4kgYw)
 
 
 
