@@ -7,6 +7,8 @@
 
 ## Context
 
+This is a workflow component (WFC1) of the [Collaboration through TeraLab Marketplace](../) worfklow.
+
 This workflow component describes more explicitly how the details of the workflow.
 
 Here is sequence :
