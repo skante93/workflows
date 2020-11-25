@@ -46,6 +46,8 @@ _**Note 2** : an App is a template referencing a docker image to be deployed. Th
 
 The following video explains how a storage is created
 
-[![Storage creation](https://www.youtube.com/vi/TwB0Ay51R_w/0.jpg)](https://www.youtube.com/watch?v=TwB0Ay51R_w)
+<!-- [![Storage creation](https://www.youtube.com/vi/TwB0Ay51R_w/0.jpg)](https://www.youtube.com/watch?v=TwB0Ay51R_w) -->
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/TwB0Ay51R_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The next workflow components contain videos showcasing the creation of a workflow item and that of a resource. 
