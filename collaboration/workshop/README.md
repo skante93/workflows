@@ -3,6 +3,8 @@
 
 ## Context
 
+This is a workflow component (WFC2) of the [Collaboration through TeraLab Marketplace](../) worfklow.
+
 The App is "Algorun" and as of now (Nov 2020), the App is available [here](https://ws67-af-portal.tl.teralab-datascience.fr/workshop/items/5fb633ea4f5aa7013ddae944) and one its instances is running [here](https://ws67-af-portal.tl.teralab-datascience.fr/workshop/items/5fbd1a6d4f5aa7013ddae94a).
 
 We are going to cover how you can use it in workshop mode with a video showing the whole process. 
