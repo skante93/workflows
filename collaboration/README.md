@@ -21,8 +21,7 @@ The scenario goes as follows :
 
 ## Outcome
 
-* describing the copperation between teams in case where
-* * one team provides apps and other makes use of them to generate data and both results are shared 
+* describing the cooperation between teams in case where involving sensitive data
 
 ## Workflow components
 
