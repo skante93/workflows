@@ -17,7 +17,7 @@ The scenario goes as follows :
 
 ## Pre-requisites:
 
-* having a basic understanding of TeraLab's Marketplace: [see the workflow](../algofab_presentation) 
+* having a basic understanding of TeraLab's Marketplace: [see the workflow](../algorfab_presentation) 
 
 ## Outcome
 
