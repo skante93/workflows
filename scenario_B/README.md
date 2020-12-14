@@ -16,9 +16,8 @@ Everything whether algorithms, data or marketplace will all be running / availab
 
 ### Variables
 
-* 
-
 ### Manual
+
 * [Experiment on the Marketplace]()
 * [Import Resources]()
 
