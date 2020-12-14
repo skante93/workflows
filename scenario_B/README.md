@@ -1,4 +1,3 @@
-
 # Scenario B
 
 ## Context 
@@ -16,6 +15,8 @@ Everything whether algorithms, data or marketplace will all be running / availab
 ## Instructions
 
 ### Variables
+
+* 
 
 ### Manual
 * [Experiment on the Marketplace]()
