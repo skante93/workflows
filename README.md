@@ -8,8 +8,6 @@ There are two worflows :
   * [Testing App in Workshop mode](./collaboration/workshop)
   * [Downloading, deploying and running App](./collaboration/download)
   * [Publishing resource](./collaboration/publish)
-<<<<<<< HEAD
-=======
 
 Additionally we added workflows based on teralab related use cases. 
 Here they are (a better will be given in a while) : 
@@ -18,4 +16,4 @@ Here they are (a better will be given in a while) :
 * [Scenario B](./scenario_B)
 * [Scenario C](./scenario_C)
 * [Scenario D](./scenario_D)
->>>>>>> 2815ee54244efb267d2b36cc70cd707fc0514824
+
