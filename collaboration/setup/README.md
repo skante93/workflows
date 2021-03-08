@@ -62,8 +62,8 @@ The script that will be used by Team A is in [example-kmeans.py](./example-kmean
 
 The following video explains how a storage is created
 
-<!-- [![Storage creation](https://www.youtube.com/vi/TwB0Ay51R_w/0.jpg)](https://www.youtube.com/watch?v=TwB0Ay51R_w) -->
+<!--*  [![Storage creation](https://www.youtube.com/vi/TwB0Ay51R_w/0.jpg)](https://www.youtube.com/watch?v=TwB0Ay51R_w) -->
 
-[Storage creation](https://www.youtube.com/watch?v=TwB0Ay51R_w)
+* [Storage creation](https://www.youtube.com/watch?v=TwB0Ay51R_w)
 
 The next workflow components contain videos showcasing the creation of a workflow item and that of a resource. 
