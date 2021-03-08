@@ -29,9 +29,9 @@ You should now have a <code>kmeans-model.pickle</code> which is the kmeans model
 
 The next videos display in action how the actions described would look like
 
-[App Instance creation](https://www.youtube.com/watch?v=8fi63e6hXL8)
+* [App Instance creation](https://www.youtube.com/watch?v=8fi63e6hXL8)
 
-[App instance Demo](https://www.youtube.com/watch?v=bD5q_OMLkEs)
+* [App instance Demo](https://www.youtube.com/watch?v=bD5q_OMLkEs)
 
 
 
