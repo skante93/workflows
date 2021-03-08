@@ -33,7 +33,7 @@ Now you can see the familiar web interface used when testing you Algorun in work
 
 The following video illustrates the process :
 
-[Downloading App](https://www.youtube.com/watch?v=AIMqpV4kgYw)
+* [Downloading App](https://www.youtube.com/watch?v=AIMqpV4kgYw)
 
 
 
