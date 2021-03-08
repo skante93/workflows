@@ -26,7 +26,7 @@ The goal of the workflow is to show the usefullness of Algofab by showcasing its
 
 Here is sequence :
 * Team B creates an App (A1)
-* Team B published the App on TeraLab Marketplace as a workshop item (in SAS mode, i.e. running the app container on Teralab) as well as a resource (downloadable and deployable in any environment). _A note explaining the difference between a workshop item and a resource is specified below._
+* Team B published the App on TeraLab Marketplace as a workshop item (in SAS mode, i.e. running the app container on Teralab) as well as a resource (downloadable and deployable in any environment).
 * Team A first tests the App in workshop mode (workshop mode explained later) and is satified
 * Then team A downloads the App from resource catalog in order to deploy it in a constrained environment (i.e because of legal of technical bindings. Let us say it is better to have the app brought to Team A's secure environment rather than them sending their sensitive data outside of their secure infrasctructure) 
 * Once deployed, Team A runs the App on their own data (D1), which in turn produces new data (D2) 
@@ -50,7 +50,7 @@ Futhermore, since the Algorun App is a bit free-style (just provides an evironme
 Since the main goal is still to describe a case of collaboration between teams, to keep things simple, we decided to that the script provided by Team A will exhibit a "KMeans" training on "IRIS" datasets and produce a model.
 This means that A1 is represented by "Algorun", D1 (c.f [Context](#context)) is represented by the IRIS dataset, and D2 is represented by the KMeans model obtained.
 
-### Script 
+### Script: example-kmeans.py 
 
 The script that will be used by Team A is in [example-kmeans.py](./example-kmeans.py), and as you can see, the sucessfull execution of it will save the model at <code>/data/models/kmeans-model.pickle</code> and plots at <code>/data/models/kmeans-model.pickle</code>. Everything is saved in <code>/data</code> because, as stated previously the Algorun App gives the possibility to mount a storage there. As a result we created an instance of Algorun while specifying a Marketplace storage at /data, which then, by nature (Merketplace storages are designed that way) exposed an SFTP interface by which we can explore the Volume.
 
