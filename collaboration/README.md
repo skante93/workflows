@@ -26,7 +26,7 @@ The scenario goes as follows :
 ## Workflow components
 
 This workflow has two WFC independant from each other but essential in their respective use cases: 
-* the [WFC 1](./setup) : describes the app as well as the setup,
+* the [WFC 1](./setup) : describes the objectives of the workflow as well as its setup,
 * the [WFC 2](./workshop): describes the deployment of the App (by either team A or team B since anyone is allowed to run an instance of an App),
 * the [WFC 3](./download): describes the download, local (in team A's environment) deployment and execution of the App (by team A),
 * the [WFC 4](./publish): describes the publication/contribution/sharing of the generated data (kmeans model) as a resource by team A).
