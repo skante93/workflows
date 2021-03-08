@@ -7,11 +7,22 @@
 
 ## Context
 
-### Scenario
+### Concepts
+
+* **Resource vs Workshop item**: a workshop item is a container based deployment orchestrated on TeraLab Merketplace to render a given service, whereas a resource is a shareable data of any given type (notebook, dataset (such as .csv .sql ...), dockerfile / docker-compose file ... ) other Marketplace users can download and exploit in their own environment. This is relevant in the current context, since using the former (workshop item) means possibly sending data to the TeraLab Marketplace to be processed while the later means downloading the processing and apply it in the workflow user's own [secure] environment where he can exrcise control over the constraints (i.e. prevent any possibility to of data leakage). Clearly, the workshop item is more "demonstrative" whereas the resource is more "operative".
+
+* **Workshop items**: As of today (November 2020), Workshop items can be of two main types (the second can further be divided in two kinds as discussed in third point below): a marketplace storage or an App. A marketplace storage is a shareable volume created by and for a user allowing him to persist data when deploying Apps. It also have an SFTP interface (secured by SSH public keys) allowing the user to either upload or download data into or from it. As for an App, it is, for the sake of simplicity for now, a docker deployment orchestrated on TeraLab Marketplace. Further info on that in the following point.
+
+* **App vs App instance** : an App is a template referencing a docker image to be deployed. The templating allows a contributor (when a user creates a resource or a workshop item, he is called the contributor in regards to the created resource/workshop item, basically a contributor is the owner of a resource) to specify a context defined by : the ports to expose, the volume mountpoints if any, and settings (envrinment variables) if any. An App Instance on the hand, is a deployment based on the template described by the App. It allows other users to provide a context to an App template (i.e. provide a custom volume (such as a Marketplace Storage) for each mountpoint, or provide a value for each setting)
+
+
+### Objective & Scenario
 
 This is a workflow component (WFC1) of the [Collaboration through TeraLab Marketplace](../) worfklow.
 
 This workflow component describes more explicitly the objectives of the workflow through a scenario, as well as introduces some fundamental Markeplace concepts required to fully understand the application of the scenario whenever the Marketplace is involved.
+
+The goal of the workflow is to show the usefullness of Algofab by showcasing its most important features through a concrete collaboration scenario between two teams (each benefitting from the other).
 
 Here is sequence :
 * Team B creates an App (A1)
@@ -21,7 +32,6 @@ Here is sequence :
 * Once deployed, Team A runs the App on their own data (D1), which in turn produces new data (D2) 
 * Team A publishes the new Data (D2) so other interested users (let's consider D2 as the output of a scientific experiment) can access it.
 
-_**Note**: a workshop item is a container based deployment orchestrated on TeraLab Merketplace to render a given service, whereas a resource is a shareable data of any given type (notebook, dataset (such as .csv .sql ...), dockerfile / docker-compose file ... ) other Marketplace users can download and exploit in their own environment. This is relevant in the current context, since using the former (workshop item) means possibly sending data to the TeraLab Marketplace to be processed while the later means downloading the processing and apply it in the workflow user's own [secure] environment where he can exrcise control over the constraints (i.e. prevent any possibility to of data leakage). Clearly, the workshop item is more "demonstrative" whereas the resource is more "operative"._
 
 ### Scenario adaptation (defining A1, the Script & D1)
 
@@ -44,12 +54,9 @@ This means that A1 is represented by "Algorun", D1 (c.f [Context](#context)) is 
 
 The script that will be used by Team A is in [example-kmeans.py](./example-kmeans.py), and as you can see, the sucessfull execution of it will save the model at <code>/data/models/kmeans-model.pickle</code> and plots at <code>/data/models/kmeans-model.pickle</code>. Everything is saved in <code>/data</code> because, as stated previously the Algorun App gives the possibility to mount a storage there. As a result we created an instance of Algorun while specifying a Marketplace storage at /data, which then, by nature (Merketplace storages are designed that way) exposed an SFTP interface by which we can explore the Volume.
 
-
-
-
 ## Outcome
 
-* Understanding the setup and steps of the workflow to come in particular the deployment of the Algorun App and its instance
+* Understanding the objectives and steps of the workflow to come in particular the deployment of the Algorun App and its instance
 
 ## Instructions
 
