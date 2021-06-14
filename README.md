@@ -8,8 +8,9 @@ There are two worflows :
 Additionally we added workflows based on teralab related use cases. 
 Here they are (a better will be given in a while) : 
 
+* [Creating a TeraLab workspace](./tl_workspace)
 * [Scenario A](./scenario_A)
 * [Scenario B](./scenario_B)
-* [Scenario C](./scenario_C)
-* [Scenario D](./scenario_D)
+<!-- * [Scenario C](./scenario_C)
+* [Scenario D](./scenario_D) -->
 

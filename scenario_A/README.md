@@ -1,7 +1,25 @@
 
-# Scenario A
+# Scenario A : Getting datasets for a Datascience project
 
 ## Context 
+
+A developer and a Data owner agree to collaborate on a Datascience project in order to develop a new application. To ensure security, tracability as well as controll on his Data, the Data owner proposes that TeraLab hosts the project.
+
+## Prerequisites
+
+## Instructions
+
+### Variables
+
+### Manual:
+
+* [Create an autonomous workspace](../tl_workspace)
+
+## Outcome (Validation Condition):
+
+* 
+
+<!-- ## Context 
 
 A startup (but not limited to startups) wants to train AI models on the platform (TeraLab Marketplace). They bring their own datasets (~100 GB), they would like to compare with existing datasets from the platform. They would need algorithms as well as an autonomous workspace.
 
@@ -51,4 +69,4 @@ ssh -p ${ssh_wan_port}  ${username}@${workspace_id}.tl.teralab-datascience.fr
 * Data for user to compare his results with
   * The user’s Data imported via SCP
   * The Data made available using an NFS type workshop storage
-  * Data  processed using App instances. 
+  * Data  processed using App instances.  -->
